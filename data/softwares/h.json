@@ -28,5 +28,35 @@
         ]
       }
     ]
+  },
+  {
+    "id": "hifiutau-pc-nsf-hifigan",
+    "names": {
+      "en": "HiFiUTAU Vocoder - PC-NSF-HiFiGAN (44.1kHz)",
+      "zh": "HiFiUTAU 声码器 - PC-NSF-HiFiGAN（44.1kHz）"
+    },
+    "category": "host_extension",
+    "developers": [
+      "Team OpenVPI",
+      "xiaobaijun"
+    ],
+    "homepage_url": "https://github.com/xiaobaijunya/HIFIUTAU_model",
+    "tags": [
+      "openutau",
+      "hifiutau",
+      "vocoder",
+      "oudep"
+    ],
+    "versions": [
+      {
+        "version": "2025.02",
+        "mirrors": [
+          {
+            "url": "https://github.com/xiaobaijunya/HIFIUTAU_model/releases/download/pc_nsf_hifigan_2025.02/hifiutau-pc-nsf-hifigan_2025.02.oudep",
+            "hash": "sha256:9908af6b044a2b6125cf7bc1dfb4ba78ac2e52b35f040804bd29a8f8cbbd34cb"
+          }
+        ]
+      }
+    ]
   }
 ]
