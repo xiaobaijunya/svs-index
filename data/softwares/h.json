@@ -22,7 +22,7 @@
         "mirrors": [
           {
             "url": "https://github.com/xiaobaijunya/HIFIUTAU_model/releases/download/hnsep_240512/hnsep_onnx_240512.oudep",
-            "hash": "sha256:7885ca38cd53868fe4c08e8ee0ee6ce0eb5b93da76a37a070febc06b93f6b57f"
+            "hash": "sha256:cd290a2ff192d07251f6aecfa7284978e612f0c4acaddd0b892a8c093e1cc555"
           }
         ]
       }
@@ -51,7 +51,7 @@
         "mirrors": [
           {
             "url": "https://github.com/xiaobaijunya/HIFIUTAU_model/releases/download/pc_nsf_hifigan_2025.02/hifiutau-pc-nsf-hifigan_2025.02.oudep",
-            "hash": "sha256:50172abe06d429d77ed9af871526cd7907fe344474c00cc3767b80ce746e1a9a"
+            "hash": "sha256:7001c11166d23c9ae45cfd9224caf23f0b53de855ac337bd148ce353286fd986"
           }
         ]
       }
