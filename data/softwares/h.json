@@ -1,6 +1,6 @@
 [
   {
-    "id": "hnsep_VR_44.1k_hop512_240512",
+    "id": "hnsep_onnx_240512",
     "names": {
       "en": "HN-SEP VR - Harmonic/Noise Separation Model",
       "zh": "HN-SEP VR - 谐波/噪声分离模型"
@@ -12,7 +12,6 @@
     ],
     "homepage_url": "https://github.com/xiaobaijunya/HIFIUTAU_model",
     "tags": [
-      "openutau",
       "hifiutau",
       "hnsep",
       "oudep"
@@ -22,8 +21,8 @@
         "version": "240512",
         "mirrors": [
           {
-            "url": "https://github.com/xiaobaijunya/HIFIUTAU_model/releases/download/hnsep_240512/hnsep_VR_44.1k_hop512_240512.oudep",
-            "hash": "sha256:e9ba78db628c621e72d1434439a0c6d447a704f59bb94b533f63439be67252df"
+            "url": "https://github.com/xiaobaijunya/HIFIUTAU_model/releases/download/hnsep_240512/hnsep_onnx_240512.oudep",
+            "hash": "sha256:7885ca38cd53868fe4c08e8ee0ee6ce0eb5b93da76a37a070febc06b93f6b57f"
           }
         ]
       }
@@ -35,14 +34,13 @@
       "en": "HiFiUTAU Vocoder - PC-NSF-HiFiGAN (44.1kHz)",
       "zh": "HiFiUTAU 声码器 - PC-NSF-HiFiGAN（44.1kHz）"
     },
-    "category": "host_extension",
+    "category": "vocoder",
     "developers": [
       "Team OpenVPI",
       "xiaobaijun"
     ],
     "homepage_url": "https://github.com/xiaobaijunya/HIFIUTAU_model",
     "tags": [
-      "openutau",
       "hifiutau",
       "vocoder",
       "oudep"
